@@ -5879,7 +5879,7 @@ let songs = [
         id: 69,
         title: "سورة الحاقة",
         artist: "تلاوة القارئ أحمد عبد الرحمان المستغانمي | رواية قالون عن نافع",
-        albumArtUrl: "images/أحمد عبد الرحمان المستغانمي.jpg",
+        albumArtUrl: "images/أحمد_عبد_الرحمان_المستغانمي.jpg",
         audioSrc: "https://ia601004.us.archive.org/4/items/20250927_20250927_1513/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D9%82%D8%A9.mp3",
         videoBgSrc: "videos/سورة_الحاقة.mp4",
         lyrics: [
