@@ -1296,14 +1296,76 @@ header h1 {
 }
 
 /* Social Media Brand Colors */
-.social-link.telegram { background-color: #0088cc; }
-.social-link.whatsapp { background-color: #25D366; }
-.social-link.facebook { background-color: #1877F2; }
-.social-link.instagram { 
-    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+.social-link.telegram { 
+    background: linear-gradient(45deg, #0088cc, #34b7f1, #0088cc);
+    background-size: 200% 200%;
+    animation: telegramGradient 3s ease infinite;
 }
-.social-link.email { background-color: #EA4335; }
-.social-link.twitter { background-color: #1DA1F2; }
+
+.social-link.whatsapp { 
+    background: linear-gradient(45deg, #25D366, #128C7E, #075E54);
+    background-size: 200% 200%;
+    animation: whatsappGradient 3s ease infinite;
+}
+
+.social-link.facebook { 
+    background: linear-gradient(45deg, #1877F2, #0D47A1, #1877F2);
+    background-size: 200% 200%;
+    animation: facebookGradient 3s ease infinite;
+}
+.social-link.instagram { 
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); 
+    background-size: 200% 200%;
+    animation: instagramGradient 3s ease infinite;
+}
+
+.social-link.youtube { 
+    background: linear-gradient(45deg, #FF0000, #FF0000, #282828, #282828);
+    background-size: 200% 200%;
+    animation: youtubeGradient 3s ease infinite;
+}
+
+.social-link.tiktok { 
+    background: linear-gradient(45deg, #25F4EE, #000000, #FE2C55); 
+    background-size: 200% 200%;
+    animation: tiktokGradient 3s ease infinite;
+}
+
+@keyframes instagramGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes youtubeGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes tiktokGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes telegramGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes whatsappGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes facebookGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
 
 /* Hover Effects */
 .social-link:hover {
@@ -1316,9 +1378,49 @@ header h1 {
 }
 
 /* Responsive Adjustments */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .social-links {
         grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px;
+    }
+    
+    .social-link {
+        padding: 12px 5px;
+        min-height: 70px;
+    }
+    
+    .social-link i {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    
+    .social-link span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .social-links {
+        grid-template-columns: 1fr;
+    }
+    
+    .social-link {
+        padding: 10px;
+        min-height: 60px;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .social-link i {
+        margin-right: 10px;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+    
+    .social-link:hover {
+        transform: translateX(5px);
     }
 }
 
