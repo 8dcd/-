@@ -61,7 +61,7 @@ let songs = [
         artist: "القارئ الشيخ محمد اللحيدان | رواية حفص عن عاصم",
         albumArtUrl: "images/سورة_الفاتحة.jpg",
         audioSrc: "https://ia802808.us.archive.org/35/items/20250927_20250927_1838/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp3",
-        videoBgSrc: "videos/سورة_الفاتحة.mp4",
+        videoBgSrc: "https://ia801004.us.archive.org/16/items/20250930_20250930_1850/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9.mp4",
         lyrics: [
             { time: 0.93, text: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ" },
             { time: 4.02, text: "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ" },
