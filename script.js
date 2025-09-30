@@ -5752,7 +5752,7 @@ let songs = [
         id: 66,
         title: "سورة التحريم",
         artist: "تلاوة القارئ أحمد عبد الرحمان المستغانمي | رواية قالون عن نافع",
-        albumArtUrl: "images/أحمد عبد الرحمان المستغانمي.jpg",
+        albumArtUrl: "images/أحمد_عبد_الرحمان _المستغانمي.jpg",
         audioSrc: "https://ia601304.us.archive.org/15/items/20250927_20250927_1508/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp3",
         videoBgSrc: "https://ia802803.us.archive.org/6/items/20250928_20250928_1106/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85.mp4",
         lyrics: [
@@ -6682,7 +6682,7 @@ let songs = [
         id: 86,
         title: "سورة الطارق",
         artist: "تلاوة القارئ أحمد عبد الرحمان المستغانمي | رواية قالون عن نافع",
-        albumArtUrl: "https://f2uyk-0g938.sevalla.page/",
+        albumArtUrl: "images/أحمد_عبد_الرحمان_المستغانمي.jpg",
         audioSrc: "https://ia600601.us.archive.org/25/items/20250927_20250927_1628/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%82.mp3",
         videoBgSrc: "videos/سورة_الطارق.mp4",
         lyrics: [
@@ -7012,7 +7012,7 @@ let songs = [
         artist: "تلاوة القارئ أحمد عبد الرحمان المستغانمي | رواية قالون عن نافع",
         albumArtUrl: "images/أحمد عبد الرحمان المستغانمي.jpg",
         audioSrc: "https://ia800209.us.archive.org/33/items/20250927_20250927_1735/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia902803.us.archive.org/31/items/20250930_20250930_1754/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D8%A9.mp4",
         lyrics: [
            { time: 0, text: "لمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ" },
             { time: 12, text: "رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ" },
@@ -7030,7 +7030,7 @@ let songs = [
         artist: "تلاوة القارئ أحمد عبد الرحمان المستغانمي | رواية قالون عن نافع",
         albumArtUrl: "images/أحمد عبد الرحمان المستغانمي.jpg",
         audioSrc: "https://ia800103.us.archive.org/28/items/20250927_20250927_1740/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia600300.us.archive.org/3/items/20250930_20250930_1759/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D9%84%D8%A9.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 6, text: "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا" },
@@ -7049,7 +7049,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_العاديات.jpg",
         audioSrc: "https://ia600103.us.archive.org/9/items/20250927_20250927_1749/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia600601.us.archive.org/34/items/20250930_20250930_1802/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A7%D8%AA.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "وَٱلۡعَادِيَٰتِ ضَبۡحٗا" },
@@ -7070,8 +7070,8 @@ let songs = [
         title: "سورة القارعة",
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_القارعة.jpg",
-        audioSrc: "",
-        videoBgSrc: "",
+        audioSrc: "https://dn710108.ca.archive.org/0/items/20250927_20250927_1754/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp3",
+        videoBgSrc: "https://ia902808.us.archive.org/15/items/20250930_20250930_1803/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%B9%D8%A9.mp4",
         lyrics: [
             { time: 1, text: "بسم الله الرحمن الرحيم" },
             { time: 5, text: "ٱلۡقَارِعَةُ" },
@@ -7092,8 +7092,8 @@ let songs = [
         title: "سورة التكاثر ",
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_التكاثر.jpg",
-        audioSrc: "",
-        videoBgSrc: "",
+        audioSrc: "https://dn721505.ca.archive.org/0/items/20250927_20250927_1759/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp3",
+        videoBgSrc: "https://ia601008.us.archive.org/33/items/20250930_20250930_1807/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%AB%D8%B1.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ" },
@@ -7112,7 +7112,7 @@ let songs = [
         artist: "تلاوة القارئ بوزوينة عبد الرحمان  | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_العصر.jpg",
         audioSrc: "https://ia600101.us.archive.org/23/items/20250927_20250927_1802/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia600800.us.archive.org/14/items/20250930_20250930_1810/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1.mp4",
         lyrics: [
              { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "وَٱلۡعَصۡرِ" },
@@ -7126,7 +7126,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الهمزة.jpg",
         audioSrc: "https://ia600208.us.archive.org/23/items/20250927_20250927_1806/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.m4a",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia801609.us.archive.org/22/items/20250930_20250930_1813/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ" },
@@ -7146,7 +7146,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الفيل.jpg",
         audioSrc: "https://ia600209.us.archive.org/6/items/20250927_20250927_1810/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia600305.us.archive.org/7/items/20250930_20250930_1815/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D9%8A%D9%84.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ" },
@@ -7162,7 +7162,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_قريش.jpg",
         audioSrc: "https://ia801005.us.archive.org/21/items/20250927_20250927_1817/%D8%B3%D9%88%D8%B1%D8%A9_%D9%82%D8%B1%D9%8A%D8%B4.mp3",
-        videoBgSrc: "",
+        videoBgSrc: "https://ia800303.us.archive.org/25/items/20250930_20250930_1819/%D8%B3%D9%88%D8%B1%D8%A9_%D9%82%D8%B1%D9%8A%D8%B4.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "لِإِيلَٰفِ قُرَيۡشٍ" },
@@ -7177,7 +7177,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الماعون.jpg",
         audioSrc: "https://ia600103.us.archive.org/35/items/20250927_20250927_1821/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp3",
-        videoBgSrc: "videos/سورة_الماعون.mp4",
+        videoBgSrc: "https://ia600103.us.archive.org/23/items/20250930_20250930_1822/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ" },
@@ -7195,7 +7195,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الكوثر.jpg",
         audioSrc: "https://ia600507.us.archive.org/0/items/20250927_20250927_1823/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp3",
-        videoBgSrc: "videos/سورة_الكوثر.mp4",
+        videoBgSrc: "https://ia600103.us.archive.org/0/items/20250930_20250930_1825/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4.50, text: "إِنَّا أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ" },
@@ -7209,7 +7209,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الكافرون.jpg",
         audioSrc: "https://ia600601.us.archive.org/25/items/20250927_20250927_1826/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp3",
-        videoBgSrc: "videos/سورة_الكافرون.mp4",
+        videoBgSrc: "https://ia902808.us.archive.org/11/items/20250930_20250930_1828/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 5, text: "قُلْ يَا أَيُّهَا الْكَافِرُونَ" },
@@ -7226,7 +7226,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_النصر.jpg",
         audioSrc: "https://ia600101.us.archive.org/12/items/20250927_20250927_1828/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp3",
-        videoBgSrc: "videos/سورة_النصر.mp4",
+        videoBgSrc: "https://ia600305.us.archive.org/22/items/20250930_20250930_1831/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%B5%D8%B1.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ" },
@@ -7240,7 +7240,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_المسد.jpg",
         audioSrc: "https://ia800300.us.archive.org/6/items/20250927_20250927_1830/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp3",
-        videoBgSrc: "videos/سورة_المسد.mp4",
+        videoBgSrc: "https://ia601609.us.archive.org/3/items/20250930_20250930_1835/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AF.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 5, text: "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ" },
@@ -7256,7 +7256,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الاخلاص.jpg",
         audioSrc: "https://ia600801.us.archive.org/27/items/20250927_20250927_1834/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5.mp3",
-        videoBgSrc: "videos/سورة_الاخلاص.mp4",
+        videoBgSrc: "https://ia601304.us.archive.org/29/items/20250930_20250930_1840/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 5, text: "قُلْ هُوَ ٱللَّهُ أَحَدٌ" },
@@ -7271,7 +7271,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الفلق.jpg",
         audioSrc: "https://ia902808.us.archive.org/25/items/20250927_20250927_1832/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D9%82.m4a",
-        videoBgSrc: "videos/سورة_الفلق.mp4",
+        videoBgSrc: "https://ia601305.us.archive.org/22/items/20250930_20250930_1845/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D9%84%D9%82.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 5, text: "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ" },
@@ -7287,7 +7287,7 @@ let songs = [
         artist: "تلاوة القارئ هزاع البلوشي | رواية ورش عن نافع",
         albumArtUrl: "images/سورة_الناس.jpg",
         audioSrc: "https://ia600101.us.archive.org/28/items/20250927_20250927_1836/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp3",
-        videoBgSrc: "videos/سورة_الناس.mp4",
+        videoBgSrc: "https://ia801609.us.archive.org/11/items/20250930_20250930_1847/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%A7%D8%B3.mp4",
         lyrics: [
             { time: 0, text: "بسم الله الرحمن الرحيم" },
             { time: 4, text: "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ" },
