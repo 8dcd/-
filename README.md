@@ -1,13 +1,8 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 2rem; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); margin-bottom: 2rem;">
     <img src="favicon.png" alt="شعار المصحف الشريف" width="150" height="150" style="border: 5px solid #fff; border-radius: 50%; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    <h1 style="color: #fff; margin: 1rem 0; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🌙 المصحف الشريف | Holy Quran</h1>
-    
-    
-    <p style="color: #e0e0e0; font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-      <em>مشروع متكامل للقرآن الكريم مع التفسير والتلاوة | Complete Quran project with Tafseer and Recitation</em>
-    </p>
-  </div>
+    <h1 style="color: #fff; margin: 1rem 0; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🌙 المصحف الشريف | Holy 
+
   
   <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     <h3 style="text-align: center; margin-bottom: 1.5rem; color: #2c3e50; font-size: 1.5rem;">تواصل معنا | Contact Us</h3>
