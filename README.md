@@ -3,20 +3,6 @@
     <img src="favicon.png" alt="شعار المصحف الشريف" width="150" height="150" style="border: 5px solid #fff; border-radius: 50%; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
     <h1 style="color: #fff; margin: 1rem 0; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🌙 المصحف الشريف | Holy Quran</h1>
     
-    <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1.5rem 0;">
-      <a href="https://github.com/username/quran-app/releases" target="_blank">
-        <img src="https://img.shields.io/github/v/release/username/quran-app?style=for-the-badge&color=4CAF50&label=الإصدار" alt="GitHub release">
-      </a>
-      <a href="https://github.com/username/quran-app/stargazers" target="_blank">
-        <img src="https://img.shields.io/github/stars/username/quran-app?style=for-the-badge&color=FFD700&label=النجوم" alt="GitHub stars">
-      </a>
-      <a href="https://github.com/username/quran-app/issues" target="_blank">
-        <img src="https://img.shields.io/github/issues/username/quran-app?style=for-the-badge&color=2196F3&label=المسائل" alt="GitHub issues">
-      </a>
-      <a href="https://github.com/username/quran-app/blob/main/LICENSE" target="_blank">
-        <img src="https://img.shields.io/badge/الترخيص-MIT-yellow.svg?style=for-the-badge" alt="License: MIT">
-      </a>
-    </div>
     
     <p style="color: #e0e0e0; font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
       <em>مشروع متكامل للقرآن الكريم مع التفسير والتلاوة | Complete Quran project with Tafseer and Recitation</em>
