@@ -26,13 +26,13 @@
   <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 12px; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     <h3 style="text-align: center; margin-bottom: 1.5rem; color: #2c3e50; font-size: 1.5rem;">تواصل معنا | Contact Us</h3>
     <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-      <a href="https://t.me/yourtelegram" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
+      <a href="https://t.me/pnqqy" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
         <div style="background: #0088cc; color: white; padding: 0.8rem 1.5rem; border-radius: 8px; display: flex; align-items: center; gap: 0.5rem; box-shadow: 0 4px 6px rgba(0,136,204,0.2);">
           <img src="https://img.icons8.com/color/24/000000/telegram-app--v1.png" alt="Telegram" width="24"/>
           <span>تيليجرام</span>
         </div>
       </a>
-      <a href="https://www.instagram.com/yourinstagram" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
+      <a href="https://www.instagram.com/9g7.x" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
         <div style="background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80); color: white; padding: 0.8rem 1.5rem; border-radius: 8px; display: flex; align-items: center; gap: 0.5rem; box-shadow: 0 4px 6px rgba(225,48,108,0.2);">
           <img src="https://img.icons8.com/color/24/000000/instagram-new--v1.png" alt="Instagram" width="24"/>
           <span>انستقرام</span>
@@ -44,13 +44,13 @@
           <span>فيسبوك</span>
         </div>
       </a>
-      <a href="https://www.tiktok.com/@yourtiktok" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
+      <a href="https://www.tiktok.com/@9g.7x" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
         <div style="background: #000000; color: white; padding: 0.8rem 1.5rem; border-radius: 8px; display: flex; align-items: center; gap: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
           <img src="https://img.icons8.com/color/24/000000/tiktok--v1.png" alt="TikTok" width="24"/>
           <span>تيك توك</span>
         </div>
       </a>
-      <a href="https://www.youtube.com/youryoutube" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
+      <a href="https://www.youtube.com/@vqer" target="_blank" style="text-decoration: none; transition: transform 0.3s ease;">
         <div style="background: #FF0000; color: white; padding: 0.8rem 1.5rem; border-radius: 8px; display: flex; align-items: center; gap: 0.5rem; box-shadow: 0 4px 6px rgba(255,0,0,0.2);">
           <img src="https://img.icons8.com/color/24/000000/youtube-play.png" alt="YouTube" width="24"/>
           <span>يوتيوب</span>
@@ -169,11 +169,11 @@
 
 ## 📞 التواصل
 - البريد الإلكتروني: quran@example.com
-- تيليجرام: [@quran_telegram](https://t.me/quran_telegram)
-- انستقرام: [@quran_instagram](https://instagram.com/quran_instagram)
+- تيليجرام: [@pnqqy](https://t.me/pnqqy)
+- انستقرام: [@9g7.x](https://instagram.com/9g7.x)
 - فيسبوك: [quran.facebook](https://facebook.com/quran.facebook)
-- تيك توك: [@quran_tiktok](https://tiktok.com/@quran_tiktok)
-- يوتيوب: [قناة القرآن](https://youtube.com/quran_channel)
+- تيك توك: [@9g.7x](https://tiktok.com/@9g.7x)
+- يوتيوب: [قناة القرآن](https://youtube.com/@vqer)
 
 </div>
 
@@ -238,11 +238,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
 - Email: quran@example.com
-- Telegram: [@quran_telegram](https://t.me/quran_telegram)
-- Instagram: [@quran_instagram](https://instagram.com/quran_instagram)
+- Telegram: [@pnqqy](https://t.me/pnqqy)
+- Instagram: [@9g7.x](https://instagram.com/9g7.x)
 - Facebook: [quran.facebook](https://facebook.com/quran.facebook)
-- TikTok: [@quran_tiktok](https://tiktok.com/@quran_tiktok)
-- YouTube: [Quran Channel](https://youtube.com/quran_channel)
+- TikTok: [@9g.7x](https://tiktok.com/@9g.7x)
+- YouTube: [Quran Channel](https://youtube.com/@vqer)
 
 </div>
 
