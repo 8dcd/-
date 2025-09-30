@@ -100,17 +100,9 @@
     <p style="color: #555; margin-bottom: 0;">استمع لأشهر القراء بتلاوات عالية الجودة مع إمكانية التحميل والاستماع دون اتصال.</p>
   </div>
 
-  <div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-right: 4px solid #9C27B0;">
-    <h4 style="color: #2c3e50; margin-top: 0; display: flex; align-items: center; gap: 0.5rem;">
-      <span style="background: #9C27B0; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">3</span>
-      📖 تفسير كامل
-    </h4>
-    <p style="color: #555; margin-bottom: 0;">شروح وتفاسير لكبار المفسرين مع إمكانية المقارنة بينها.</p>
-  </div>
-
   <div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-right: 4px solid #FF9800;">
     <h4 style="color: #2c3e50; margin-top: 0; display: flex; align-items: center; gap: 0.5rem;">
-      <span style="background: #FF9800; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">4</span>
+      <span style="background: #FF9800; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">3</span>
       🔍 بحث متقدم
     </h4>
     <p style="color: #555; margin-bottom: 0;">ابحث في القرآن الكريم بالكلمات أو الآيات مع نتائج فورية.</p>
@@ -118,7 +110,7 @@
 
   <div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-right: 4px solid #E91E63;">
     <h4 style="color: #2c3e50; margin-top: 0; display: flex; align-items: center; gap: 0.5rem;">
-      <span style="background: #E91E63; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">5</span>
+      <span style="background: #E91E63; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">4</span>
       📱 واجهة متجاوبة
     </h4>
     <p style="color: #555; margin-bottom: 0;">تصميم عصري يعمل على جميع الأجهزة بسلاسة.</p>
@@ -126,7 +118,7 @@
 
   <div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-right: 4px solid #607D8B;">
     <h4 style="color: #2c3e50; margin-top: 0; display: flex; align-items: center; gap: 0.5rem;">
-      <span style="background: #607D8B; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">6</span>
+      <span style="background: #607D8B; color: white; width: 30px; height: 30px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;">5</span>
       🌙 وضع ليلي
     </h4>
     <p style="color: #555; margin-bottom: 0;">وضع مظلم مريح للعيون للقراءة الليلية.</p>
@@ -147,33 +139,15 @@
 ### المميزات المتاحة
 - تصفح السور والآيات
 - الاستماع للتلاوات
-- قراءة التفسير
 - البحث في النص القرآني
 - حفظ التقدم في القراءة
 
-## 📚 الموارد المتاحة
-- [تطبيق الأندرويد](https://play.google.com/store/apps/details?id=com.example.quran)
-- [تطبيق iOS](https://apps.apple.com/app/id1234567890)
-- [الموقع الرسمي](https://example.com)
-- [قناة التلجرام](https://t.me/yourtelegram)
-
-## 🤝 المساهمة
-نرحب بمساهماتكم في تطوير المشروع. يمكنكم:
-- الإبلاغ عن الأخطاء
-- اقتراح تحسينات
-- المساهمة في الترجمة
-- تطوير ميزات جديدة
-
-## 📄 الترخيص
-هذا المشروع مرخص تحت [رخصة MIT](LICENSE).
-
 ## 📞 التواصل
-- البريد الإلكتروني: quran@example.com
 - تيليجرام: [@pnqqy](https://t.me/pnqqy)
 - انستقرام: [@9g7.x](https://instagram.com/9g7.x)
 - فيسبوك: [quran.facebook](https://facebook.com/quran.facebook)
 - تيك توك: [@9g.7x](https://tiktok.com/@9g.7x)
-- يوتيوب: [قناة القرآن](https://youtube.com/@vqer)
+- يوتيوب: [@vqer](https://youtube.com/@vqer)
 
 </div>
 
@@ -197,7 +171,6 @@ A comprehensive Holy Quran project designed to provide easy access to the Holy Q
 ## ✨ Features
 - 📖 Complete Holy Quran text
 - 🎧 Audio recitations by famous reciters
-- 📖 Tafseer of the Holy Quran
 - 🔍 Advanced search in the Quranic text
 - 📱 User-friendly interface
 - 🌙 Night mode for comfortable reading
@@ -216,7 +189,6 @@ A comprehensive Holy Quran project designed to provide easy access to the Holy Q
 ### Available Features
 - Browse Surahs and Ayahs
 - Listen to recitations
-- Read Tafseer
 - Search in the Quranic text
 - Save reading progress
 
