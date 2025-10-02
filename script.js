@@ -2246,7 +2246,7 @@ let songs = [
         title: "سورة الكهف",
         artist: "القارئ ماهر المعيقلي | رواية حفص عن عاصم",
         albumArtUrl: "images/سورة_الكهف.jpg",
-        audioSrc: "https://ia601000.us.archive.org/1/items/20250926_20250926_2119/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3",
+        audioSrc: "https://dn721901.ca.archive.org/0/items/20250926_20250926_2119/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp3",
         videoBgSrc: "https://ia601001.us.archive.org/32/items/20250928_20250928_0906/%D8%B3%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D9%87%D9%81.mp4",
         lyrics: [
             { time: 0, text: "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ" },
