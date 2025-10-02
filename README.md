@@ -106,6 +106,51 @@
   </div>
 </div>
 
+## 🖥️ واجهة تصفح السور
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/site image.png" alt="واجهة تصفح سور القرآن الكريم" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    واجهة سهلة الاستخدام لتصفح سور القرآن الكريم مع إمكانية الاختيار السريع والتنقل السلس بين السور
+  </p>
+</div>
+
+## 🔍 بحث متقدم في القرآن الكريم
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/search.png" alt="ميزة البحث المتقدم في القرآن الكريم" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    ميزة البحث المتقدم تتيح لك العثور على أي آية أو كلمة في القرآن الكريم بسهولة وسرعة
+  </p>
+</div>
+
+## ❤️ السور المفضلة
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/like.png" alt="قائمة السور المفضلة" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    احفظ سورك المفضلة بضغطة زر للوصول السريع إليها لاحقاً. يمكنك إضافة أي سورة إلى المفضلة بالنقر على زر القلب
+  </p>
+</div>
+
+## ⏱️ مؤقت النوم التلقائي
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/time.png" alt="ميزة المؤقت التلقائي" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    استمتع بتجربة استماع مريحة مع مؤقت النوم التلقائي. اضبط المؤقت ليغلق التطبيق تلقائياً بعد انتهاء المدة المحددة
+  </p>
+</div>
+
+## 💾 حفظ الآيات المفضلة
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/likes.png" alt="حفظ الآيات المفضلة" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    يمكنك بسهولة حفظ أي آية مفضلة لديك عن طريق النقر على زر الحفظ (💾) بجانب الآية. لعرض جميع الآيات المحفوظة، اضغط على زر القائمة ثم اختر "الآيات المفضلة"
+  </p>
+</div>
+
 ## ⚙️ المتطلبات
 - متصفح ويب حديث (يفضل Chrome أو Firefox)
 - اتصال بالإنترنت للوصول إلى الخدمات السحابية
@@ -126,7 +171,7 @@
 ## 📞 التواصل
 - تيليجرام: [@pnqqy](https://t.me/pnqqy)
 - انستقرام: [@9g7.x](https://instagram.com/9g7.x)
-- فيسبوك: [quran.facebook](https://facebook.com/quran.facebook)
+- البريد الإلكتروني: [info@quranapp.com](mailto:info@quranapp.com)
 - تيك توك: [@9g.7x](https://tiktok.com/@9g.7x)
 - يوتيوب: [@vqer](https://youtube.com/@vqer)
 
@@ -155,6 +200,51 @@ A comprehensive Holy Quran project designed to provide easy access to the Holy Q
 - 🔍 Advanced search in the Quranic text
 - 📱 User-friendly interface
 - 🌙 Night mode for comfortable reading
+
+## 🖥️ Surah Browsing Interface
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/site image.png" alt="Quran Surahs Browsing Interface" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    User-friendly interface for browsing Quranic Surahs with quick selection and smooth navigation between chapters
+  </p>
+</div>
+
+## 🔍 Advanced Quran Search
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/search.png" alt="Advanced Search in the Holy Quran" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    Advanced search feature allows you to quickly find any verse or word in the Holy Quran with ease
+  </p>
+</div>
+
+## ❤️ Favorite Surahs
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/like.png" alt="Favorite Surahs List" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    Save your favorite surahs with one click for quick access later. Simply tap the heart icon to add any surah to your favorites
+  </p>
+</div>
+
+## ⏱️ Sleep Timer
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/time.png" alt="Sleep Timer Feature" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    Enjoy a comfortable listening experience with our sleep timer. Set the timer to automatically stop playback after your desired duration
+  </p>
+</div>
+
+## 💾 Save Favorite Verses
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="screenshots/likes.png" alt="Save Favorite Verses" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="margin-top: 1rem; color: #555; font-size: 0.95rem;">
+    Easily save your favorite verses by clicking the save (💾) button next to any verse. To view all your saved verses, click the menu button and select "Favorite Verses"
+  </p>
+</div>
 
 ## ⚙️ Requirements
 - Modern web browser (Chrome or Firefox recommended)
@@ -190,18 +280,15 @@ We welcome contributions to the project. You can:
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
-- Email: quran@example.com
+- Email: [info@quranapp.com](mailto:info@quranapp.com)
 - Telegram: [@pnqqy](https://t.me/pnqqy)
 - Instagram: [@9g7.x](https://instagram.com/9g7.x)
-- Facebook: [quran.facebook](https://facebook.com/quran.facebook)
 - TikTok: [@9g.7x](https://tiktok.com/@9g.7x)
-- YouTube: [Quran Channel](https://youtube.com/@vqer)
+- YouTube: [@vqer](https://youtube.com/@vqer)
 
 </div>
 
 ---
-
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 2.5rem 1rem; border-radius: 15px; margin-top: 3rem; color: white; text-align: center;">
   <h3 style="margin: 0 0 1rem 0; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; gap: 0.8rem;">
     <span>Developed with ❤️ for the sake of Allah | تم التطوير بكل حب في سبيل الله</span>
   </h3>

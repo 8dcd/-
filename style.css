@@ -1331,6 +1331,12 @@ header h1 {
     animation: tiktokGradient 3s ease infinite;
 }
 
+.social-link.email { 
+    background: linear-gradient(45deg, #4a90e2, #8e44ad, #e74c3c);
+    background-size: 200% 200%;
+    animation: emailGradient 3s ease infinite;
+}
+
 @keyframes instagramGradient {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -1344,6 +1350,12 @@ header h1 {
 }
 
 @keyframes tiktokGradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes emailGradient {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
